@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calderon_practica2/static/css/main.c6c3791b.chunk.css",
+    "main.js": "/calderon_practica2/static/js/main.6aadac6e.chunk.js",
+    "main.js.map": "/calderon_practica2/static/js/main.6aadac6e.chunk.js.map",
+    "runtime-main.js": "/calderon_practica2/static/js/runtime-main.86c27667.js",
+    "runtime-main.js.map": "/calderon_practica2/static/js/runtime-main.86c27667.js.map",
+    "static/js/2.f38ce821.chunk.js": "/calderon_practica2/static/js/2.f38ce821.chunk.js",
+    "static/js/2.f38ce821.chunk.js.map": "/calderon_practica2/static/js/2.f38ce821.chunk.js.map",
+    "index.html": "/calderon_practica2/index.html",
+    "precache-manifest.db81dce6ed799a11021e99067b9af8f7.js": "/calderon_practica2/precache-manifest.db81dce6ed799a11021e99067b9af8f7.js",
+    "service-worker.js": "/calderon_practica2/service-worker.js",
+    "static/css/main.c6c3791b.chunk.css.map": "/calderon_practica2/static/css/main.c6c3791b.chunk.css.map",
+    "static/js/2.f38ce821.chunk.js.LICENSE.txt": "/calderon_practica2/static/js/2.f38ce821.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86c27667.js",
+    "static/js/2.f38ce821.chunk.js",
+    "static/css/main.c6c3791b.chunk.css",
+    "static/js/main.6aadac6e.chunk.js"
+  ]
+}
